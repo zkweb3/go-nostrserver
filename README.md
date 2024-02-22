@@ -1,4 +1,4 @@
-![logo](https://socialify.git.ci/zkweb3/go-nostrserver/image?description=1&descriptionEditable=a%20sample%20of%20local%20testing%20server&forks=1&issues=1&language=1&name=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
+![logo](https://socialify.git.ci/zkweb3/go-nostrserver/image?description=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Light)
 
 ## How to generate ca certificate using OpenSSL:
 
